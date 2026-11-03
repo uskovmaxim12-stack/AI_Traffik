@@ -1,0 +1,11 @@
+{
+"am5corolla_skin_taxi": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"ABC Taxis Norwich Livery",
+        "value":3,
+    }
+    "slotType" : "skin_am5eu2_am5corolla",
+    "globalSkin" : "am5eu2_skin_taxi",
+},
+}

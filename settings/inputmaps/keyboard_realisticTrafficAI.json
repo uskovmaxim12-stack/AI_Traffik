@@ -1,0 +1,8 @@
+{
+  "bindings": [
+    {
+      "control": "]",
+      "action": "toggleRealisticTrafficAI"
+    }
+  ]
+}

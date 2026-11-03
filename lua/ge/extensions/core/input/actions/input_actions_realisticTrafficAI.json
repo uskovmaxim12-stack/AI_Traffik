@@ -1,0 +1,11 @@
+{
+  "toggleRealisticTrafficAI": {
+    "cat": "debug",
+    "order": 129,
+    "ctx": "tlua",
+    "onDown": "extensions.core_realisticTrafficAI.toggle()",
+    "actionMap": "Global",
+    "title": "Toggle Realistic Traffic AI",
+    "desc": "Enable or disable the Realistic Traffic AI behavior layer"
+  }
+}

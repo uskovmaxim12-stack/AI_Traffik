@@ -1,0 +1,90 @@
+{
+"am5corolla_licenseplate_F_US": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front US License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32109, "z":0.490994}, "rot":{"x":1.68439, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_R_US": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Rear US License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_R",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate", ["body"],[],{"pos":{"x":0.0, "y":2.22762, "z":0.812501}, "rot":{"x":15.2052, "y":0, "z":180}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_US_jp": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front US License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_jp",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32666, "z":0.477114}, "rot":{"x":5.01791, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_EU": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F",
+    "licenseplateFormat": "52-11",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-52-11-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32253, "z":0.508453}, "rot":{"x":0, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_EU_jp": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_jp",
+    "licenseplateFormat": "52-11",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-52-11-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32626, "z":0.474615}, "rot":{"x":2.78088, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_EU_suzuki": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_suzuki",
+    "licenseplateFormat": "52-11",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-52-11-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.35283, "z":0.517311}, "rot":{"x":5.30667, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_R_EU": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Rear EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_R",
+    "licenseplateFormat": "52-11",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-52-11-r2", ["body"],[],{"pos":{"x":0.0, "y":2.2209, "z":0.826872}, "rot":{"x":14.5288, "y":0, "z":180}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+}

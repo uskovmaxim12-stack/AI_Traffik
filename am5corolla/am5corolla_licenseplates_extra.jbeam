@@ -1,0 +1,145 @@
+{
+"am5corolla_licenseplate_F_IT": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front 36x11 Italian License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F",
+    "licenseplateFormat": "36-11",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-36-11-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32253, "z":0.508453}, "rot":{"x":0, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_EU_white": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front White EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F",
+    "licenseplateFormat": "f-52",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-f-52-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32253, "z":0.508453}, "rot":{"x":0, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_SA": {
+    "information":{
+        "authors":"Vinswie",
+        "name":"Front 40x13 Mercosur License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F",
+    "licenseplateFormat": "40-13",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-40-13", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32253, "z":0.508453}, "rot":{"x":0, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_IT_jp": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front 36x11 Italian License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_jp",
+    "licenseplateFormat": "36-11",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-36-11-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32626, "z":0.474615}, "rot":{"x":2.78088, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_EU_white_jp": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front White EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_jp",
+    "licenseplateFormat": "f-52",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-f-52-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32626, "z":0.474615}, "rot":{"x":2.78088, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_SA_jp": {
+    "information":{
+        "authors":"Vinswie",
+        "name":"Front 40x13 Mercosur License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_jp",
+    "licenseplateFormat": "40-13",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-40-13", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.32626, "z":0.474615}, "rot":{"x":2.78088, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_IT_suzuki": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front 36x11 Italian License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_suzuki",
+    "licenseplateFormat": "36-11",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-36-11-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.35283, "z":0.517311}, "rot":{"x":5.30667, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_EU_white_suzuki": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Front White EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_suzuki",
+    "licenseplateFormat": "f-52",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-f-52-r4", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.35283, "z":0.517311}, "rot":{"x":5.30667, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_F_SA_suzuki": {
+    "information":{
+        "authors":"Vinswie",
+        "name":"Front 40x13 Mercosur License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_F_suzuki",
+    "licenseplateFormat": "40-13",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-40-13", ["bumper_F"],[],{"pos":{"x":0.0, "y":-2.35283, "z":0.517311}, "rot":{"x":5.30667, "y":0, "z":0}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_R_SA": {
+    "information":{
+        "authors":"Vinswie",
+        "name":"Rear 40x13 Mercosur License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_R",
+    "licenseplateFormat": "40-13",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-40-13", ["body"],[],{"pos":{"x":0.0, "y":2.2209, "z":0.826872}, "rot":{"x":14.5288, "y":0, "z":180}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+"am5corolla_licenseplate_R_EU_yellow": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Rear Yellow EU License Plate",
+        "value":0,
+    },
+    "slotType" : "am5corolla_licenseplate_R",
+    "licenseplateFormat": "yellow",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["licenseplate-yellow", ["body"],[],{"pos":{"x":0.0, "y":2.2209, "z":0.826872}, "rot":{"x":14.5288, "y":0, "z":180}, "scale":{"x":1, "y":1, "z":1}}],
+    ],
+},
+}

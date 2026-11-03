@@ -1,0 +1,81 @@
+{
+"am5corolla_badges_toyota": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Toyota Corolla EU Trim",
+        "value":3,
+    }
+    "slotType" : "am5corolla_badges",
+    "slots": [
+        ["type", "default", "description"],
+        ["am5corolla_licenseplate_F","am5corolla_licenseplate_F_EU","Front License Plate"],
+    ],
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["am5corolla_bumper_F_toyota", ["bumper_F"]],
+         ["am5corolla_badges_toyota", ["body"]],
+    ],
+    "props":[
+        ["func"      , "mesh"           , "idRef:", "idX:", "idY:", "baseRotation"        , "rotation"            , "translation"        , "min", "max", "offset", "multiplier",],
+        ["axle_FR", "am5corolla_wheels_toyota", "axf1r", "axf1rr", "fh2r", {"x":0, "y":0, "z":0}, {"x":-1, "y":0, "z":0}, {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+        ["axle_FL", "am5corolla_wheels_toyota", "axf1l", "axf1ll", "fh2l", {"x":0, "y":0, "z":0}, {"x":1, "y":0, "z":0} , {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+        ["axle_RR", "am5corolla_wheels_toyota", "axr1r", "axr1rr", "rh2r", {"x":0, "y":0, "z":0}, {"x":-1, "y":0, "z":0}, {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+        ["axle_RL", "am5corolla_wheels_toyota", "axr1l", "axr1ll", "rh2l", {"x":0, "y":0, "z":0}, {"x":1, "y":0, "z":0} , {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+    ],
+},
+"am5corolla_badges_jp": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Toyota Corolla JP Trim",
+        "value":3,
+    }
+    "slotType" : "am5corolla_badges",
+    "slots": [
+        ["type", "default", "description"],
+        ["am5corolla_licenseplate_F_jp","am5corolla_licenseplate_F_US_jp","Front License Plate"],
+    ],
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["am5corolla_bumper_F_jp", ["bumper_F"]],
+         ["am5corolla_badges_toyota", ["body"]],
+    ],
+},
+"am5corolla_badges_suzuki": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"Suzuki Swace Trim",
+        "value":3,
+    }
+    "slotType" : "am5corolla_badges",
+    "slots": [
+        ["type", "default", "description"],
+        ["am5corolla_licenseplate_F_suzuki","am5corolla_licenseplate_F_EU_suzuki","Front License Plate"],
+    ],
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["am5corolla_bumper_F_suzuki", ["bumper_F"]],
+         ["am5corolla_badges_suzuki", ["body"]],
+    ],
+    "props":[
+        ["func"      , "mesh"           , "idRef:", "idX:", "idY:", "baseRotation"        , "rotation"            , "translation"        , "min", "max", "offset", "multiplier",],
+        ["axle_FR", "am5corolla_wheels_suzuki", "axf1r", "axf1rr", "fh2r", {"x":0, "y":0, "z":0}, {"x":-1, "y":0, "z":0}, {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+        ["axle_FL", "am5corolla_wheels_suzuki", "axf1l", "axf1ll", "fh2l", {"x":0, "y":0, "z":0}, {"x":1, "y":0, "z":0} , {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+        ["axle_RR", "am5corolla_wheels_suzuki", "axr1r", "axr1rr", "rh2r", {"x":0, "y":0, "z":0}, {"x":-1, "y":0, "z":0}, {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+        ["axle_RL", "am5corolla_wheels_suzuki", "axr1l", "axr1ll", "rh2l", {"x":0, "y":0, "z":0}, {"x":1, "y":0, "z":0} , {"x":0, "y":0, "z":0}, -360, 360, 0, 1, {"baseTranslation":{"x":0.087, "y":0, "z":0.0}, "optional":true}],
+    ],
+},
+"am5corolla_stickers_jp": {
+    "information":{
+        "authors":"BeamNG, AgentMooshroom5",
+        "name":"JP Stickers",
+        "value":3,
+    }
+    "slotType" : "am5corolla_stickers",
+    "flexbodies": [
+         ["mesh", "[group]:", "nonFlexMaterials"],
+         ["am5corolla_stickers_main", ["body"]],
+         ["$= 'am5corolla_stickers_inspection' .. random(1,4)", ["body"]],
+         ["$= 'am5corolla_stickers_rare' .. random(1,2)", ["body"]],
+    ],
+},
+}
